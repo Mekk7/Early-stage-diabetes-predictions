@@ -1,2 +1,0 @@
-# early stage diabetes prediction
-
