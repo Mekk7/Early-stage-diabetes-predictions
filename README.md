@@ -1,1 +1,2 @@
-# prediction of heart failure
+# early stage diabetes prediction
+
